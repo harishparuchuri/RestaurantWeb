@@ -1,0 +1,38 @@
+ body  
+    {
+          background-color:grey
+         
+
+    }
+header
+    {
+          background-color: black;
+          color:white;
+          width: 80%;
+          margin-right: auto;
+          margin-left: auto;
+          text-align: center;
+          padding: 10px;
+    }
+section
+    {
+          background-color:rgb(250, 246, 246);
+          color:black;
+          width: 80%;
+          margin-right: auto;
+          margin-left: auto;
+          border-width:5px;
+          border-color:soild;
+          padding: 10px;
+
+    }
+footer
+    {
+          background-color: black;
+          color:white;
+          width: 80%;
+          margin-right: auto;
+          margin-left: auto;
+          padding:10px
+    }
+
